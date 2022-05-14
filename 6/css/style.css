@@ -405,7 +405,7 @@
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
-  background-image: url("../../../source/img/background-mobile.jpg");
+  background-image: url("../img/background-mobile.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: 50% -17px;
@@ -415,7 +415,7 @@
 @media (min-width: 768px) {
   .catalog__wrapper {
     background-position: 50% -60px;
-    background-image: url("../../../source/img/background-tablet.jpg");
+    background-image: url("../img/background-tablet.jpg");
   }
 
   .catalog__wrapper::after {
@@ -1023,7 +1023,7 @@
   position: relative;
   z-index: 1;
   margin-bottom: 41px;
-  background-image: url("/source/img/map-desktop.jpg");
+  background-image: url("../img/map-tablet.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
 }

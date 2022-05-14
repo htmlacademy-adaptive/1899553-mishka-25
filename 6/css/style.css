@@ -431,7 +431,7 @@
 @media (min-width: 1150px) {
   .catalog__wrapper {
     background-position: 50% 82px;
-    background-image: url("../../../source/img/background-desktop.jpg");
+    background-image: url("../../img/background-desktop.jpg");
   }
 
   .catalog__wrapper::after {

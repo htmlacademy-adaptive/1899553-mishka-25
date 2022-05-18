@@ -846,7 +846,7 @@
     left: 0;
     width: 100%;
     height: 24px;
-    background-image: url("/source/img/zigzag-fill-tab.svg");
+    background-image: url("../img/zigzag-fill-tab.svg");
   }
 }
 @media (min-width: 1150px) {
@@ -861,7 +861,7 @@
     left: 0;
     width: 100%;
     height: 24px;
-    background-image: url("/source/img/zigzag-fill-desk.svg");
+    background-image: url("../img/zigzag-fill-desk.svg");
     max-width: 1150px;
   }
 }
@@ -1038,7 +1038,7 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  background-image: url("/source/img/zigzag-line-mob.svg");
+  background-image: url("../img/zigzag-line-mob.svg");
 }
 
 .catalog__card-best {
@@ -1121,7 +1121,7 @@
 
   .catalog__card::after {
     height: 17px;
-    background-image: url("/source/img/zigzag-line-tab.svg");
+    background-image: url("../img/zigzag-line-tab.svg");
   }
 
   .catalog__card-title {
@@ -1206,7 +1206,7 @@
     height: 23px;
     width: 1050px;
     left: 0;
-    background-image: url("/source/img/zigzag-line-desk.svg");
+    background-image: url("../img/zigzag-line-desk.svg");
   }
 
   .catalog__card-image {
@@ -1584,7 +1584,7 @@
     left: 0;
     width: 100%;
     height: 24px;
-    background-image: url("/source/img/zigzag-fill-tab.svg");
+    background-image: url("../img/zigzag-fill-tab.svg");
   }
 }
 @media (min-width: 1150px) {
@@ -1594,7 +1594,7 @@
     left: 0;
     width: 100%;
     height: 24px;
-    background-image: url("/source/img/zigzag-fill-tab.svg");
+    background-image: url("../img/zigzag-fill-tab.svg");
   }
 }
 .form-catalog__title {
@@ -1764,6 +1764,16 @@
   margin: 0 auto;
   background-color: #ffffff;
   position: relative;
+}
+
+.main-header__logo {
+  max-height: 79px;
+  min-width: 260px;
+  text-align: center;
+  margin-top: 22px;
+  margin-bottom: 16px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .main-header__wrapper {
@@ -2128,7 +2138,7 @@
     left: 0;
     width: 100%;
     height: 24px;
-    background-image: url("/source/img/zigzag-fill-tab.svg");
+    background-image: url("../img/zigzag-fill-tab.svg");
   }
 }
 @media (min-width: 1150px) {
@@ -2138,7 +2148,7 @@
     left: 0;
     width: 100%;
     height: 24px;
-    background-image: url("/source/img/zigzag-fill-tab.svg");
+    background-image: url("../img/zigzag-fill-tab.svg");
   }
 }
 .prodact-list__title {
